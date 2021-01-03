@@ -1,0 +1,22 @@
+{
+  "name": "boxe-u-clearfix",
+  "version": "0.1.0",
+  "description": "Clearfix utility class.",
+  "main": "_clearfix.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typin-dev/boxe-u-clearfix.git"
+  },
+  "keywords": [
+    "boxe",
+    "clearfix",
+    "utility",
+    "class"
+  ],
+  "author": "Eduards Torba",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/typin-dev/boxe-u-clearfix/issues"
+  },
+  "homepage": "https://github.com/typin-dev/boxe-u-clearfix#readme"
+}
