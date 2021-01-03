@@ -1,5 +1,4 @@
 # boxe-u-clearfix
-Visibility helper classes from/until a specific breakpoint e.g. `u-hidden`, `u-hidden-from-mobile`.
 
 Install using npm:
 ```

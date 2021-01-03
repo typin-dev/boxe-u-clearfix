@@ -1,6 +1,6 @@
 {
   "name": "boxe-u-clearfix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Clearfix utility class.",
   "main": "_clearfix.scss",
   "repository": {
